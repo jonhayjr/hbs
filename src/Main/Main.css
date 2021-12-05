@@ -188,10 +188,8 @@ body {
   .text-box {
     color: white;
     text-align: center;
-    margin: 10rem auto;
     border: 2px solid white;
     border-radius: 10px;
-    width: 75%;
     padding: 2rem;
     text-transform: uppercase;
     }
